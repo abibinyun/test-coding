@@ -110,7 +110,6 @@ let array = [4, 2, 6, 88, 3, 11];
 let low = array[0];
 let high = array[0];
 let count = array.length;
-// $n = count($array);
 
 for (i = 0; i < count; i++) {
   if (low < array[i]) {
